@@ -1,0 +1,24 @@
+{
+  "nama_toko": "Toko Buku Jaya",
+  "alamat": "Jl. Ahmad Yani No. 123, Jakarta",
+  "daftar_buku": [
+      {
+          "judul": "Harry Potter and the Philosopher's Stone",
+          "pengarang": "J.K. Rowling",
+          "tahun_terbit": 1997,
+          "harga": 150000
+      },
+      {
+          "judul": "To Kill a Mockingbird",
+          "pengarang": "Harper Lee",
+          "tahun_terbit": 1960,
+          "harga": 125000
+      },
+      {
+          "judul": "The Great Gatsby",
+          "pengarang": "F. Scott Fitzgerald",
+          "tahun_terbit": 1925,
+          "harga": 120000
+      }
+  ]
+}
